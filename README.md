@@ -4,8 +4,8 @@
 мотивирующий текст от руководства
 
 ### Список вакансий
-  - Haskell developer
-  - Frontend developer
+  - [Haskell developer](/positions/haskell.md)
+  - [Frontend developer](/positions/front.md)
 
 ### Шаблон вакансии
   - Кого и зачем ищем (роль, уровень)
