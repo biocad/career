@@ -5,6 +5,7 @@
 ### Открыты вакансии
   - [Haskell developer](/positions/haskell.md)
   - [Frontend developer](/positions/front.md)
+  - [Technical writer](/positions/writer.md)
 
 ### Контакты для связи
-+ 7 911 01234567789
+???
