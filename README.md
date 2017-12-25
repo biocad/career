@@ -6,6 +6,7 @@
   - [Haskell developer](/positions/haskell.md)
   - [Frontend developer](/positions/front.md)
   - [Technical writer](/positions/writer.md)
+  - [Mathematician](/positions/pkpd.md)
 
 ### Контакты для связи
 ???
