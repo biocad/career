@@ -9,4 +9,4 @@
   - [Mathematician](/positions/pkpd.md)
 
 ### Контакты для связи
-[Меншутина Оля](mailto:menshutina@biocad.ru) - HR партнёр (@Mensh)
+[Меншутина Оля](mailto:menshutina@biocad.ru) - HR партнёр ([@Mensh](https://telegram.me/Mensh))
