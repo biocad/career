@@ -28,3 +28,6 @@
 
 ### Наш текущий технологический стек на фронтенде
 ReactJS, RxJS, Babel, Webpack, NodeJS, Nginx
+
+### Контакты для связи
+[Меншутина Оля](mailto:menshutina@biocad.ru) – HR партнёр [ ![@Mensh](/telegram.png) ](https://telegram.me/Mensh)
