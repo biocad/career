@@ -1,5 +1,5 @@
 
-<p align="center"><img src="biocad-line_eng.png" width="360"></p>
+<p align="center"><img src="/img/biocad-line_eng.png" width="360"></p>
 
 ## Вакансии в Департаменте Вычислительной Биологии компании BIOCAD
 
@@ -14,4 +14,4 @@
 - [Математик-программист](/positions/pkpd.md)
 
 ### Контакты для связи
-[Меншутина Оля](mailto:menshutina@biocad.ru) – HR партнёр [ ![@Mensh](/telegram.png) ](https://telegram.me/Mensh)
+[Меншутина Оля](mailto:menshutina@biocad.ru) – HR партнёр [ ![@Mensh](/img/telegram.png) ](https://telegram.me/Mensh)
