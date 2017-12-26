@@ -3,10 +3,10 @@
 [BIOCAD](https://biocad.ru) — это прежде всего инновационная компания. То, что раньше было возможно выполнить исключительно [in vitro](https://ru.wikipedia.org/wiki/In_vitro) в стенах лабораторий, может быть воплощено [in silico](https://ru.wikipedia.org/wiki/In_silico) силой чистого разума. Присоединяйтесь к нашей команде, будем делать жизнь человечества лучше. Мы ищем талантливых разработчиков, способных разработать модели и алгоритмы для обработки данных из молекулярно-генетических и химических лабораторий уровня Discovery. Вам предстоит анализировать применимость алгоритмов в смежных задачах и направлениях, участвовать в формировании единого пространства методов обработки и анализа данных, интегрировать новые методы в единую информационную систему. Если вы профессионально владеете Haskell/Java/Python/JavaScript/C++ (любым из этих языков) и у вас хорошая математическая подготовка, то удобное рабочее место и интересные задачи ждут вас.
 
 ### Открытые вакансии
-  - [Haskell developer](/positions/haskell.md)
-  - [Frontend developer](/positions/front.md)
-  - [Technical writer](/positions/writer.md)
-  - [Mathematician](/positions/pkpd.md)
+- [Haskell developer](/positions/haskell.md)
+- [Frontend developer](/positions/front.md)
+- [Technical writer](/positions/writer.md)
+- [Mathematician](/positions/pkpd.md)
 
 ### Контакты для связи
 [Меншутина Оля](mailto:menshutina@biocad.ru) - HR партнёр ([@Mensh](https://telegram.me/Mensh))

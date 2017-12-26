@@ -1,4 +1,4 @@
-# Тестовое задание на позицию разработчика фронтенда в компанию [BIOCAD](https://biocad.ru/)
+## Тестовое задание на позицию разработчика фронтенда в компанию [BIOCAD](https://biocad.ru/)
 
 
 Каждое антитело – это особый белок, состоящий, как и все другие белки в живых организмах, из аминокислот, соединённых друг с другом пептидной связью.
@@ -15,10 +15,10 @@
 
 #### API
 ```javascript
-    <Chain
-        sequence="QVQLVESGGGL VQPGG SLRLSCAASRSIFSINAM NWYRQAPGKGTEWVAQITDEGIT NYVDSVKGRFTI SRDNAKNTLYLQMNSLRAEDTAVY YCNAFVITTTSEIYWGQGTTVTVSS"
-        onSelection={ selection => console.log(selection) }
-    />
+<Chain
+    sequence="QVQLVESGGGL VQPGG SLRLSCAASRSIFSINAM NWYRQAPGKGTEWVAQITDEGIT NYVDSVKGRFTI SRDNAKNTLYLQMNSLRAEDTAVY YCNAFVITTTSEIYWGQGTTVTVSS"
+    onSelection={ selection => console.log(selection) }
+/>
 ```
 
 #### Представление
