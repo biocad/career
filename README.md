@@ -26,6 +26,7 @@
 - [Технический писатель](/positions/writer.md)
 - [Математик-программист](/positions/pkpd.md)
 - [Разработчик биоинформатического ПО](/positions/bioinf-dev.md)
+- [Инженер по тестированию](/positions/QA.md)
 
 ### Контакты для связи
 [Меншутина Оля](mailto:menshutina@biocad.ru) – HR партнёр [ ![@Mensh](/img/telegram.png) ](https://telegram.me/Mensh)
