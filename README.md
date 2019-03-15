@@ -23,6 +23,7 @@
 ### Открытые вакансии
 - [Haskell-разработчик](/positions/haskell.md)
 - [Разработчик фронтенда](/positions/front.md)
+- [UX-дизайнер](/positions/UX.md)
 - [Технический писатель](/positions/writer.md)
 - [Математик-программист](/positions/pkpd.md)
 - [Разработчик биоинформатического ПО](/positions/bioinf-dev.md)
