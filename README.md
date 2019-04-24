@@ -25,7 +25,7 @@
 - [Разработчик фронтенда](/positions/front.md)
 - [UX-дизайнер](/positions/UX.md)
 - [Технический писатель](/positions/writer.md)
-- [Математик-программист](/positions/pkpd.md)
+- [Специалист по математическому моделированию](/positions/pkpd.md)
 - [Разработчик биоинформатического ПО](/positions/bioinf-dev.md)
 - [Инженер по тестированию](/positions/QA.md)
 
