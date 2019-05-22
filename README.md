@@ -23,9 +23,12 @@
 ### Открытые вакансии
 - [Haskell-разработчик](/positions/haskell.md)
 - [Разработчик фронтенда](/positions/front.md)
+- [UX-дизайнер](/positions/UX.md)
 - [Технический писатель](/positions/writer.md)
-- [Математик-программист](/positions/pkpd.md)
+- [Специалист по математическому моделированию](/positions/pkpd.md)
 - [Разработчик высокопроизводительного ПО](/positions/bioinf-dev.md)
+- [Инженер по тестированию](/positions/QA.md)
+- [Специалист по анализу данных](/positions/ml.md)
 
 ### Контакты для связи
 [Меншутина Оля](mailto:menshutina@biocad.ru) – HR партнёр [ ![@Mensh](/img/telegram.png) ](https://telegram.me/Mensh)
