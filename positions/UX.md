@@ -19,4 +19,4 @@ BIOCAD ищет дизайнера интерфейсов.
   - знания в области фронтенд-разработки и веб-технологий.
 
 ### Контакты для связи
-[Меншутина Оля](mailto:menshutina@biocad.ru) – HR партнёр [ ![@Mensh](/img/telegram.png) ](https://telegram.me/Mensh)
+[Елизавета Семенова](mailto:semenovaep@biocad.ru) – Менеджер по подбору персонала [ ![@milisabetta](/img/telegram.png) ](https://telegram.me/milisabetta)

@@ -33,4 +33,4 @@
 - офис в самом центре.
 
 ### Контакты для связи
-[Меншутина Оля](mailto:menshutina@biocad.ru) – Старший HR партнёр [ ![@Mensh](/img/telegram.png) ](https://telegram.me/Mensh)
+[Елизавета Семенова](mailto:semenovaep@biocad.ru) – Менеджер по подбору персонала [ ![@milisabetta](/img/telegram.png) ](https://telegram.me/milisabetta)
