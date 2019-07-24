@@ -20,7 +20,7 @@
 - дополните структуру данных необходимыми на ваш взгляд полями;
 - населите базу данных представителями (хотя бы по 20 образцов каждого вида). Данные подразумеваются совершенно синтетические.
 
-Между записями в структурах данных могут быть функциональные зависимости (например, между представлением [smiles](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) и именем [IUPAC](https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry)).
+Между записями в структурах данных могут быть различные зависимости (например, между представлением [smiles](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) и именем [IUPAC](https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry)).
 
 #### Реализовать функционал на haskell
 - создайте соответствующие типы в haskell-библиотеке;
