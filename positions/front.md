@@ -28,4 +28,4 @@
 ReactJS, RxJS, Babel, Webpack, NodeJS, Nginx
 
 ### Контакты для связи
-[Елизавета Семенова](mailto:semenovaep@biocad.ru) – Менеджер по подбору персонала [ ![@milisabetta](/img/telegram.png) ](https://telegram.me/milisabetta)
+[Лена Рубашенко](mailto:rubashenko@biocad.ru) – Менеджер по подбору персонала [ ![@oh_rubash](/img/telegram.png) ](https://telegram.me/oh_rubash)
