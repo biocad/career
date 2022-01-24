@@ -35,4 +35,4 @@
 - офис в самом центре.
 
 ### Контакты для связи
-[Лена Рубашенко](mailto:rubashenko@biocad.ru) – Менеджер по подбору персонала [ ![@oh_rubash](/img/telegram.png) ](https://telegram.me/oh_rubash)
+[Екатерина Касаткина](mailto:kasatkinaev@biocad.ru) – Менеджер по подбору персонала [ ![@kkasatkinaa](/img/telegram.png) ](https://t.me/kkasatkinaa)
