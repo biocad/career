@@ -24,10 +24,10 @@
 - [Haskell-разработчик](/positions/haskell.md)
 - [Разработчик фронтенда](/positions/front.md)
 - [UX-дизайнер](/positions/UX.md)
-- [Технический писатель](/positions/writer.md)
+<!-- - [Технический писатель](/positions/writer.md) -->
 <!-- - [Разработчик высокопроизводительного ПО](/positions/bioinf-dev.md) -->
 - [Инженер по тестированию](/positions/QA.md)
 - [Специалист по анализу данных](/positions/ml.md)
 
 ### Контакты для связи
-[Лена Рубашенко](mailto:rubashenko@biocad.ru) – Менеджер по подбору персонала [ ![@oh_rubash](/img/telegram.png) ](https://telegram.me/oh_rubash)
+[Екатерина Касаткина](mailto:kasatkinaev@biocad.ru) – Менеджер по подбору персонала [ ![@kkasatkinaa](/img/telegram.png) ](https://t.me/kkasatkinaa)
