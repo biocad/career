@@ -35,4 +35,4 @@
 - офис в самом центре.
 
 ### Контакты для связи
-[Екатерина Касаткина](mailto:kasatkinaev@biocad.ru) – Менеджер по подбору персонала [ ![@kkasatkinaa](/img/telegram.png) ](https://t.me/kkasatkinaa)
+[Мария Коновалова](mailto:konovalova@biocad.ru) — Менеджер по подбору персонала [![@makonov7](/img/telegram.png)](https://t.me/makonov7)
