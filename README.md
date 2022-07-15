@@ -21,13 +21,19 @@
 
 
 ### Открытые вакансии
-- [Haskell-разработчик](/positions/haskell.md)
-- [Разработчик фронтенда](/positions/front.md)
-- [UX-дизайнер](/positions/UX.md)
 <!-- - [Технический писатель](/positions/writer.md) -->
 <!-- - [Разработчик высокопроизводительного ПО](/positions/bioinf-dev.md) -->
 - [Инженер по тестированию](/positions/QA.md)
+
+### Неактивные вакансии
+
+По этим вакансиям мы сейчас не ищем активно людей, но если тебе интересна какая-то из этих позиций,
+ты можешь прислать нам своё резюме и мы обязательно с тобой поговорим и запомним твои контакты.
+
+- [Haskell-разработчик](/positions/haskell.md)
+- [Разработчик фронтенда](/positions/front.md)
+- [UX-дизайнер](/positions/UX.md)
 - [Специалист по анализу данных](/positions/ml.md)
 
 ### Контакты для связи
-[Екатерина Касаткина](mailto:kasatkinaev@biocad.ru) – Менеджер по подбору персонала [ ![@kkasatkinaa](/img/telegram.png) ](https://t.me/kkasatkinaa)
+[Мария Коновалова](mailto:konovalova@biocad.ru) — Менеджер по подбору персонала [![@makonov7](/img/telegram.png)](https://t.me/makonov7)
