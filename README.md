@@ -36,4 +36,5 @@
 - [Специалист по анализу данных](/positions/ml.md)
 
 ### Контакты для связи
-[Мария Коновалова](mailto:konovalova@biocad.ru) — Менеджер по подбору персонала [![@makonov7](/img/telegram.png)](https://t.me/makonov7)
+[Анастасия Гусейнова](mailto:guseinovaa@biocad.ru) — Менеджер по подбору персонала
+[![@HR\_Biocad](/img/telegram.png)](https://t.me/HR_Biocad).
